@@ -1,6 +1,8 @@
 package day1;
 
 /**
+ * 学习计划 ： 算法入门 ==> 开始
+ *
  * 704 二分查找
  *
  * @author llliujw
