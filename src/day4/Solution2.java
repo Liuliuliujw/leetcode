@@ -1,9 +1,7 @@
 package day4;
 
 import java.util.ArrayDeque;
-import java.util.Arrays;
 import java.util.Deque;
-import java.util.LinkedList;
 
 /**
  * 557 反转字符串中的单词 III
