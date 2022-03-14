@@ -1,8 +1,6 @@
 package day6;
 
 import java.util.Arrays;
-import java.util.HashMap;
-import java.util.Map;
 
 /**
  * 567 字符串的排列
